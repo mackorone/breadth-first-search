@@ -10,6 +10,6 @@ For use with [mackorone/mms](https://github.com/mackorone/mms), a Micromouse sim
 
 ## Code
 
-The code is less than 300 lines and can fit on a single page:
+The code is less than 300 lines and can fit on a single screen:
 
 ![](https://github.com/mackorone/breadth-first-search/blob/master/code.png)
