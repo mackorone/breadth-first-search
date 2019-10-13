@@ -6,7 +6,7 @@ For use with [mackorone/mms](https://github.com/mackorone/mms), a Micromouse sim
 
 ## Demo
 
-![](https://github.com/mackorone/mackalgo/blob/master/demo.gif)
+![](https://github.com/mackorone/breadth-first-search/blob/master/demo.gif)
 
 ## Code
 
